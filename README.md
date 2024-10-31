@@ -5,7 +5,7 @@ Olá eu sou o Marcos Felipe. 👋
 - ⚡ Gosto de músicas, jogos e animes.
 - 🎥 Filmes e séries são bem vindos.
 
-![Marcos Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-felipe1&show_icons=true&bg_color=00000000)
+![Marcos Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-felipe&show_icons=true&bg_color=00000000)
 
 <div>
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@ Olá eu sou o Marcos Felipe. 👋
 <img align="center" alt="Lipe-Java" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Lipe-Javascript" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-a
+
 ##
 
 <div>
