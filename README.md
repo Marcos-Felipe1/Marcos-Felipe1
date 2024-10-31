@@ -7,4 +7,9 @@ Olá eu sou o Marcos Felipe. 👋
 
 ![Marcos Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-felipe1&show_icons=true&bg_color=00000000)
 
+<div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Lipe-Csharp" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+  
+</div>
