@@ -1,6 +1,6 @@
 Olá eu sou o Marcos Felipe. 👋
 
-- 🔭 Atualmente estou trabalhando na Prefeitura do Recife.
+- 🔭 Atualmente estou trabalhando na Prefeitura do Recife como Assistente Administrativo.
 - 🌱 Estou fazendo o curso de Análise e Desenvolvimento de Sistemas na Faculdade UNIBRA.
 - ⚡ Gosto de músicas, jogos e animes.
 - 🎥 Filmes e séries são bem vindos.
@@ -21,3 +21,6 @@ Olá eu sou o Marcos Felipe. 👋
 
 ##
 
+<div>
+<a href="https://www.instagram.com/lipi.santana/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
