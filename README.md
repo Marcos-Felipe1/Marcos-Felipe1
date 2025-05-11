@@ -16,7 +16,7 @@ Olá eu sou o Marcos Felipe. 👋
 <img align="center" alt="Lipe-Css" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Lipe-React" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Lipe-Java" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Lipe-Javascript" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
 </div>
 
 ##
